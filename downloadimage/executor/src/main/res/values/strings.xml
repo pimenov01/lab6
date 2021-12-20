@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">executor</string>
+    <string name="download_image">Download image</string>
+    <string name="clear_image">Clear image</string>
+    <string name="ai_generated_person">AI generated person</string>
+</resources>

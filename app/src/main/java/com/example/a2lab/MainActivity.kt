@@ -7,9 +7,6 @@ import android.view.View
 import android.widget.Toast
 
 
-
-
-
 class MainActivity : Activity() {
     val LOG_TAG = "myLogs"
     var cnt = 0

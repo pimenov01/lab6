@@ -11,7 +11,13 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/app/continuewatch" />
+            <option value="$PROJECT_DIR$/app/coroutines" />
+            <option value="$PROJECT_DIR$/app/executionservice" />
+            <option value="$PROJECT_DIR$/app/threads" />
+            <option value="$PROJECT_DIR$/downloadimage" />
+            <option value="$PROJECT_DIR$/downloadimage/coroutine" />
+            <option value="$PROJECT_DIR$/downloadimage/executor" />
+            <option value="$PROJECT_DIR$/downloadimage/picasso" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

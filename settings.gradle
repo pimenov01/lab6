@@ -8,4 +8,10 @@ dependencyResolutionManagement {
 }
 rootProject.name = "2lab"
 include ':app'
-include ':app:continuewatch'
+include ':app:threads'
+include ':app:executionservice'
+include ':app:coroutines'
+include ':downloadimage'
+include ':downloadimage:executor'
+include ':downloadimage:coroutine'
+include ':downloadimage:picasso'
